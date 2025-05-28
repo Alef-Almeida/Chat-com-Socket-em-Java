@@ -1,0 +1,6 @@
+2025-05-27 23:01:00 [SERVIDOR] - Servidor iniciado na porta 12345
+2025-05-27 23:01:43 - Cliente conectado: 127.0.0.1:54057
+2025-05-27 23:01:57 - [127.0.0.1:54057]: hello, Wolrd!
+2025-05-27 23:02:02 - [127.0.0.1:54057]: exit
+2025-05-27 23:02:02 - Cliente 127.0.0.1:54057 desconectado (solicitado pelo cliente).
+2025-05-27 23:02:02 - Conexão com 127.0.0.1:54057 fechada.
